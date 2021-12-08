@@ -1,2 +1,5 @@
 Texts for branch1
 Adding a new text for branch1
+
+This is a set of randome text
+This does a lot of things
