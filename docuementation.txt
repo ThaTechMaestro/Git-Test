@@ -1,1 +1,2 @@
 Texts for branch1
+Adding a new text for branch1
